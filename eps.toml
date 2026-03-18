@@ -9,6 +9,7 @@ platform    = ["aarch64-apple-darwin", "x86_64-apple-darwin", "x86_64-unknown-li
 
 [service]
 enabled      = true
+startup      = true
 start        = "daily-brief"
 port         = 5544
 health_check = "GET /health"
