@@ -1,6 +1,6 @@
 [package]
 name        = "daily_brief"
-version     = "0.1.0"
+version     = "0.1.1"
 description = "Texts you a daily summary of your todo list at a scheduled time."
 authors     = ["nickagliano"]
 license     = "MIT"
